@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//akeem986.github.io/monsters-collector/static/css/main.5023f9a9.chunk.css",
-    "main.js": "/https//akeem986.github.io/monsters-collector/static/js/main.91d1b144.chunk.js",
-    "main.js.map": "/https//akeem986.github.io/monsters-collector/static/js/main.91d1b144.chunk.js.map",
-    "runtime-main.js": "/https//akeem986.github.io/monsters-collector/static/js/runtime-main.9fb6fc1e.js",
-    "runtime-main.js.map": "/https//akeem986.github.io/monsters-collector/static/js/runtime-main.9fb6fc1e.js.map",
-    "static/js/2.2a8262b8.chunk.js": "/https//akeem986.github.io/monsters-collector/static/js/2.2a8262b8.chunk.js",
-    "static/js/2.2a8262b8.chunk.js.map": "/https//akeem986.github.io/monsters-collector/static/js/2.2a8262b8.chunk.js.map",
-    "static/js/3.108a987e.chunk.js": "/https//akeem986.github.io/monsters-collector/static/js/3.108a987e.chunk.js",
-    "static/js/3.108a987e.chunk.js.map": "/https//akeem986.github.io/monsters-collector/static/js/3.108a987e.chunk.js.map",
-    "index.html": "/https//akeem986.github.io/monsters-collector/index.html",
-    "static/css/main.5023f9a9.chunk.css.map": "/https//akeem986.github.io/monsters-collector/static/css/main.5023f9a9.chunk.css.map",
-    "static/js/2.2a8262b8.chunk.js.LICENSE.txt": "/https//akeem986.github.io/monsters-collector/static/js/2.2a8262b8.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-collector/static/css/main.5023f9a9.chunk.css",
+    "main.js": "/monsters-collector/static/js/main.91d1b144.chunk.js",
+    "main.js.map": "/monsters-collector/static/js/main.91d1b144.chunk.js.map",
+    "runtime-main.js": "/monsters-collector/static/js/runtime-main.6ca9075a.js",
+    "runtime-main.js.map": "/monsters-collector/static/js/runtime-main.6ca9075a.js.map",
+    "static/js/2.2a8262b8.chunk.js": "/monsters-collector/static/js/2.2a8262b8.chunk.js",
+    "static/js/2.2a8262b8.chunk.js.map": "/monsters-collector/static/js/2.2a8262b8.chunk.js.map",
+    "static/js/3.108a987e.chunk.js": "/monsters-collector/static/js/3.108a987e.chunk.js",
+    "static/js/3.108a987e.chunk.js.map": "/monsters-collector/static/js/3.108a987e.chunk.js.map",
+    "index.html": "/monsters-collector/index.html",
+    "static/css/main.5023f9a9.chunk.css.map": "/monsters-collector/static/css/main.5023f9a9.chunk.css.map",
+    "static/js/2.2a8262b8.chunk.js.LICENSE.txt": "/monsters-collector/static/js/2.2a8262b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fb6fc1e.js",
+    "static/js/runtime-main.6ca9075a.js",
     "static/js/2.2a8262b8.chunk.js",
     "static/css/main.5023f9a9.chunk.css",
     "static/js/main.91d1b144.chunk.js"
